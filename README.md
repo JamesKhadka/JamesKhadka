@@ -59,7 +59,7 @@
 <h2>🏆 GitHub Trophies</h2> 
 <br><br>
 
-![](https://github-profile-trophy.vercel.app/?username=JamesKhadka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JamesKhadka&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
   <br/><br/><br/>
 
