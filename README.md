@@ -1,14 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JamesKhadka.JamesKhadka" />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James+Khadka!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=50&color=ff69b4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James+Khadka!;+A+BSc.CSIT+Student;+And+a+Football+Lover" />
 </h1>
 
 <h3 align="center">A passionate Front End developer from Nepal</h3>
 
 <br/>
 
-<div align="center">
+<div align="center" >
  
  🔭 I’m currently working on **Web App Development**
  
@@ -19,18 +19,19 @@
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
+ <hr/>
+
+ <h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/james-khadka-26b100236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="James Khadka" height="40" width="50" /></a>
+<a href="https://instagram.com/james_khadka__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="James Khadka" height="40" width="50" /></a>
+<a href="https://x.com/c/James_khadka__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="James Khadka" height="40" width="50" /></a>
+ <a href="https://github.com/JamesKhadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="James Khadka" height="40" width="50" /></a>
+     <a href="khadkajames0@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail" /></a>
+    <a href="https://kganesh.com.np/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="James Khadka" height="40" width="50" /></a>
+</p>
  
-<div align="center"> 
-  <a href="mailto:khadkajames0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-AA336A?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/james-khadka-26b100236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AA336A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/JamesKhadka" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-AA336A?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+
 
  <hr/>
  
@@ -45,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2 >🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JamesKhadka/JamesKhadka/output/github-contribution-grid-snake.svg" />
   
@@ -54,24 +55,38 @@
 
 <hr/>
 
+<div align="center">
+<h2>🏆 GitHub Trophies</h2> 
+<br><br>
+
+![](https://github-profile-trophy.vercel.app/?username=JamesKhadka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+  <br/><br/><br/>
+
+<div/>
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
- <a href="https://git.io/streak-stats"><img width="410" src="https://streak-stats.demolab.com?user=JamesKhadka&theme=panda" alt="GitHub Streak" /></a>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=JamesKhadka&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesKhadka&hide=HTML&langs_count=8&layout=compact&theme=panda&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <a href="https://git.io/streak-stats"><img width="445"  src="https://streak-stats.demolab.com?user=JamesKhadka&theme=panda" alt="GitHub Streak" /></a>
+  <img width="410"  src="https://github-readme-stats.vercel.app/api?username=JamesKhadka&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/> <br/>
+  <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesKhadka&hide=HTML&langs_count=8&layout=compact&theme=panda&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
-<br/><br/>
+<br/>
+<br/>
+
 
 <hr/>
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=17&color=ff69b4&center=true&vCenter=true&width=500&height=70&duration=5000&lines=THANK+YOU+FOR+VISITING;+|+DON'T+FORGET+TO+SMASH+THAT+STAR+AND+FORK+IN+REPO;" />
+</h1>
+
 
 <br/>
